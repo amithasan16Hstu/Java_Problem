@@ -1,0 +1,15 @@
+Turning on the smart light: 
+Device Name: Energy
+Brand Name: LED
+Connectivity: 80
+------------------------------------------
+Turning on the smart thermostat: 
+Device Name: CoolTherm
+Brand Name: Nest
+Connectivity: 60
+--------------------------------------------------
+Turning on the smart lock: 
+Device Name: SecuriLock
+Brand Name: Yale
+Connectivity: 50
+------------------------------------------------------
